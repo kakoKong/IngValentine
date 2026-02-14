@@ -27,8 +27,8 @@ const questions = [
     correct: 0,
   },
   {
-    question: 'Ruk mak kae nhai',
-    options: ['Suek', 'T Sood', 'Nid ng', 'Somtum'],
+    question: 'Ruk kae nhai',
+    options: ['Suek', 'Mak', 'Nid ng', 'Somtum'],
     correct: 1,
   },
   {
