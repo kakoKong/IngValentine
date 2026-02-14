@@ -26,8 +26,8 @@ function LandingPage({ onSubmit, onFail }) {
   if (step === 'name') {
     return (
       <div className="card">
-        <h1>You think you know me?</h1>
-        <p className="subtitle">Prove it. But first, who the hell are you?</p>
+        <h1>Kong's Valentine Gift</h1>
+        <p className="subtitle">Prove it. But first, who are you?</p>
         <form onSubmit={handleNameSubmit}>
           <input
             type="text"
@@ -38,7 +38,7 @@ function LandingPage({ onSubmit, onFail }) {
           />
           <br />
           <button type="submit" className="btn">
-            Come in, if you dare
+            Ma
           </button>
         </form>
       </div>
